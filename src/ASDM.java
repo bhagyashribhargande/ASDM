@@ -36,6 +36,8 @@ public class ASDM {
 		System.out.println("result="+e.multiplication(10, 10));
 		System.out.println("result="+e.Division(10, 5));
 		
+		System.out.println("hwll");
+		
 	}
 
 }
